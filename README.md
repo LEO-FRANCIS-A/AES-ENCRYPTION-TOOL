@@ -103,3 +103,7 @@ Output Screenshots:
 Encryption
 
 ![Image](https://github.com/user-attachments/assets/907091b3-cb42-4dc2-984b-122a569780b7)
+
+Encrypted Data
+
+![Image](https://github.com/user-attachments/assets/531df4ec-80a2-4756-89f0-b72fbc5bfe07)
