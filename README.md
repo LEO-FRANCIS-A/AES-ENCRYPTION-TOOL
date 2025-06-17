@@ -34,7 +34,7 @@ Features
 
 Tools and Libraries Used
 
-    Python 3 was used to write the script
+    Python3 was used to write the script
 
     Ubuntu command line was used to run and test the tool
 
@@ -101,3 +101,5 @@ Platform Used
 Output Screenshots:
 
 Encryption
+
+![Image](https://github.com/user-attachments/assets/907091b3-cb42-4dc2-984b-122a569780b7)
