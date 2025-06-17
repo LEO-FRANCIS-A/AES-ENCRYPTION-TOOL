@@ -12,7 +12,8 @@
 
  *MENTOR*: NEELA SANTOSH
 
-AES Encryption Tool
+
+AES ENCRYPTION TOOL
 
 This is a Python command-line tool that lets users securely encrypt and decrypt files using the AES encryption algorithm with 256-bit keys in CBC mode. The purpose of this tool is to protect sensitive information by converting it into an unreadable format that can only be reversed with the correct password.
 
